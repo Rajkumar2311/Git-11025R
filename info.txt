@@ -3,3 +3,5 @@ Bangalore
 Skills
 Devops
 git
+git stash
+git cherry-pick
